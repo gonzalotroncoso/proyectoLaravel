@@ -1,0 +1,180 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+9 0 R
+11 0 R
+13 0 R
+]
+/Count 4
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+>>
+>>
+/MediaBox [0.000 0.000 104.000 250.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Producer (dompdf 0.8.0
+ + CPDF)
+/CreationDate (D:20200818210155+00'00')
+/ModDate (D:20200818210155+00'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/MediaBox [0.000 0.000 104.000 250.000]
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 659 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 189.863 Td /F1 12.0 Tf  [(Warning)] TJ ET
+BT 34.016 175.211 Td /F1 12.0 Tf  [(: )] TJ ET
+BT 34.016 160.559 Td /F1 12.0 Tf  [(require_once\(\): )] TJ ET
+BT 34.016 145.907 Td /F1 12.0 Tf  [(open_basedir )] TJ ET
+BT 34.016 131.255 Td /F1 12.0 Tf  [(restriction )] TJ ET
+BT 34.016 116.603 Td /F1 12.0 Tf  [(in )] TJ ET
+BT 34.016 101.951 Td /F1 12.0 Tf  [(effect. )] TJ ET
+BT 34.016 87.299 Td /F1 12.0 Tf  [(File\(/storage/ssd1/013/8888013/public_html/clases/Conexion.php\) )] TJ ET
+BT 34.016 72.647 Td /F1 12.0 Tf  [(is not )] TJ ET
+BT 34.016 57.995 Td /F1 12.0 Tf  [(within )] TJ ET
+BT 34.016 43.343 Td /F1 12.0 Tf  [(the )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Page
+/MediaBox [0.000 0.000 104.000 250.000]
+/Parent 3 0 R
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 789 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 204.263 Td /F1 12.0 Tf  [(allowed )] TJ ET
+BT 34.016 189.611 Td /F1 12.0 Tf  [(path\(s\): )] TJ ET
+BT 34.016 174.959 Td /F1 12.0 Tf  [(\(/opt/awex-)] TJ ET
+BT 34.016 160.307 Td /F1 12.0 Tf  [(pages:/storage/ssd2/013/8888013\) )] TJ ET
+BT 34.016 145.655 Td /F1 12.0 Tf  [(in )] TJ ET
+BT 34.016 131.003 Td /F1 12.0 Tf  [(/storage/ssd2/013/8888013/public_html/vistas/ventas/ticketVentaPdf.php)] TJ ET
+BT 34.016 116.351 Td /F1 12.0 Tf  [(on )] TJ ET
+BT 34.016 101.699 Td /F1 12.0 Tf  [(line )] TJ ET
+BT 56.024 101.699 Td /F1 12.0 Tf  [(2)] TJ ET
+BT 34.016 72.647 Td /F1 12.0 Tf  [(Warning)] TJ ET
+BT 34.016 57.995 Td /F1 12.0 Tf  [(: )] TJ ET
+BT 34.016 43.343 Td /F1 12.0 Tf  [(require_once\(/storage/ssd1/013/8888013/public_html/clases/Conexion.php\): )] TJ ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page
+/MediaBox [0.000 0.000 104.000 250.000]
+/Parent 3 0 R
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 785 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 204.263 Td /F1 12.0 Tf  [(failed )] TJ ET
+BT 34.016 189.611 Td /F1 12.0 Tf  [(to )] TJ ET
+BT 34.016 174.959 Td /F1 12.0 Tf  [(open )] TJ ET
+BT 34.016 160.307 Td /F1 12.0 Tf  [(stream: )] TJ ET
+BT 34.016 145.655 Td /F1 12.0 Tf  [(Operation )] TJ ET
+BT 34.016 131.003 Td /F1 12.0 Tf  [(not )] TJ ET
+BT 34.016 116.351 Td /F1 12.0 Tf  [(permitted )] TJ ET
+BT 34.016 101.699 Td /F1 12.0 Tf  [(in )] TJ ET
+BT 34.016 87.047 Td /F1 12.0 Tf  [(/storage/ssd2/013/8888013/public_html/vistas/ventas/ticketVentaPdf.php)] TJ ET
+BT 34.016 72.395 Td /F1 12.0 Tf  [(on )] TJ ET
+BT 34.016 57.743 Td /F1 12.0 Tf  [(line )] TJ ET
+BT 56.024 57.743 Td /F1 12.0 Tf  [(2)] TJ ET
+BT 34.016 28.691 Td /F1 12.0 Tf  [(Fatal )] TJ ET
+BT 34.016 14.039 Td /F1 12.0 Tf  [(error)] TJ ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page
+/MediaBox [0.000 0.000 104.000 250.000]
+/Parent 3 0 R
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 795 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 204.263 Td /F1 12.0 Tf  [(: )] TJ ET
+BT 34.016 189.611 Td /F1 12.0 Tf  [(require_once\(\): )] TJ ET
+BT 34.016 174.959 Td /F1 12.0 Tf  [(Failed )] TJ ET
+BT 34.016 160.307 Td /F1 12.0 Tf  [(opening )] TJ ET
+BT 34.016 145.655 Td /F1 12.0 Tf  [(required )] TJ ET
+BT 34.016 131.003 Td /F1 12.0 Tf  [('/storage/ssd1/013/8888013/public_html/clases/Conexion.php' )] TJ ET
+BT 34.016 116.351 Td /F1 12.0 Tf  [(\(include_path='.:/usr/share/pear:/usr/share/php'\) )] TJ ET
+BT 34.016 101.699 Td /F1 12.0 Tf  [(in )] TJ ET
+BT 34.016 87.047 Td /F1 12.0 Tf  [(/storage/ssd2/013/8888013/public_html/vistas/ventas/ticketVentaPdf.php)] TJ ET
+BT 34.016 72.395 Td /F1 12.0 Tf  [(on )] TJ ET
+BT 34.016 57.743 Td /F1 12.0 Tf  [(line )] TJ ET
+BT 56.024 57.743 Td /F1 12.0 Tf  [(2)] TJ ET
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000294 00000 n 
+0000000323 00000 n 
+0000000452 00000 n 
+0000000555 00000 n 
+0000001265 00000 n 
+0000001372 00000 n 
+0000001476 00000 n 
+0000002317 00000 n 
+0000002422 00000 n 
+0000003259 00000 n 
+0000003364 00000 n 
+trailer
+<<
+/Size 15
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+4211
+%%EOF

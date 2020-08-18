@@ -1,0 +1,36 @@
+{{no imprime html}}
+{!! si imprime html !!}
+
+
+////////// BASE DE DATOS //////////////
+php artisan migrate crea las tablas user y reset password
+
+php artisan migrate:rollback vuelve atras
+
+php artisan migrate:rollvack --step=1 vuelve un paso atras 
+
+php artisan migrate:fresh borra todas las tablas y las hace de nuevo esto es por si agrego algun campo a las tablas entonces las borra para agregar ese campo el problema es que borra todos los datos que tenia la taba.
+
+ 
+ php artisan make_migration add_phone_to_user_table para modificar una tabla sin borrar los datos. Se debe crear una migracion
+
+ _to_ (laravel detecta que quiere modificar una tabla que ya existe ) depende el nombre de la migracion
+
+ php artisan make:migration "create_project_table" crea una tabla en la base datos llamada projects
+ php artisan migration:fresh borra los datos de la base de datos y agregaa la tabla projects
+ 
+<small>{{$loop->last ? 'Es el ultimo' : 'No es el ultimo' }}</small>  $loop es un metodo que me indica en que parte del ciclo se encuentra un objeto
+
+php artisan make:model -h crear modelo de clases para utilizar ORM
+php artisan make:model NOMBRE DEL MODELL -m (-m ya crea la migracion del modelo)
+
+Eloquent toma el nombre del modelo en este caso Proyect lo pone en miniscula y plural y este es el nombre de la tabla de la base de datos que va a utilizar
+protected $table = "my_table" para usar el nombre que yo quiera
+
+
+
+<!--	<small> {{$projectItems->description}}</small> <br>
+						<small>{{$projectItems->created_at->format('d-m-Y')}}</small><br>
+						<small>{{$projectItems->created_at->diffForHumans()}}</small>
+					</li><br>-->
+			
